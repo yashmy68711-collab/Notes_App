@@ -20,9 +20,4 @@ A simple GUI notes application built using Python and tkinter.
 
 Run the Python file and start writing notes.
 
-## Future Improvements
 
-* Edit saved notes
-* Dark mode
-* Search notes
-* Better UI design
