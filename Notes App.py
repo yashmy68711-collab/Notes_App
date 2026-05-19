@@ -51,6 +51,14 @@ save_btn = tk.Button(
     width=20
 )
 
+open_btn = tk.Button(
+    window,
+    text="Open Notes",
+    command=open_notes,
+    width=20
+)
+
+
 save_btn.pack(pady=5)
 
 clear_btn = tk.Button(
